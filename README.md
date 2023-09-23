@@ -10,23 +10,23 @@ Contraseña: 12345
 Luego de haber rellenado los campos con los datos previos solamente hace falta hacer click izquierdo sobre el botón de "ingresar"
 Una vez ingresado, en pantalla podremos observar el programa ejecutandose y mostrara lo siguiente:
 
-Código
-Nombre del producto
-Precio unitario
-Cantidad de Unidades
-Fecha de ingreso
+Código,
+Nombre del producto,
+Precio unitario,
+Cantidad de Unidades,
+Fecha de ingreso,
 
 Los datos mencionados anteriormente son campos a rellenar por quien este utilizando el programa.
 
 Inferior a estos podremos visualizar el apartado de opciones que cuenta con 7 botónes, en órden de izquierda a derecha son:
 
-Agregar
-Modificar
-eliminar
-salir
-reporte
-buscar
-refrescar
+Agregar,
+Modificar,
+eliminar,
+salir,
+reporte,
+buscar,
+refrescar,
 
 
 
