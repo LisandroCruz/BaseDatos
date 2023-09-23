@@ -152,3 +152,6 @@ Finally, the refresh button has the functionality of returning the table to its 
 
 ![image](https://github.com/LisandroCruz/BaseDatos/assets/145726150/845a008d-74a3-46d4-93af-52c4f7e298df)
 
+![image](https://github.com/LisandroCruz/BaseDatos/assets/145726150/f79f8347-6f69-4070-a5f2-6ea78da4a448)
+
+
