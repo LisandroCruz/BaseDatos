@@ -378,3 +378,13 @@ User clicks the "salir" (Exit) button in the GUI.
 Code Explanation:
 
 In the jButton4ActionPerformed method, the System.exit(0) statement is used to terminate the application.
+
+# Enlaces de apoyo
+
+CRUD:
+
+https://www.youtube.com/watch?v=6_ncKPDvKEg
+
+Reportes con jasper
+
+https://www.youtube.com/watch?v=KSdHTGhHrIU&t=1194s
