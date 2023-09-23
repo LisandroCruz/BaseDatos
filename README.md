@@ -146,3 +146,9 @@ To search for a product, fill in either the code field or the product name field
 # Refresh
 
 Finally, the refresh button has the functionality of returning the table to its base state. This means that if you perform a search in the product table located at the bottom of the program, only the products that match the code or name entered in the fields will appear. Clicking the refresh button will display all the products again, and the code and name fields will be cleared.
+
+
+# Imágenes del manual de usuario
+
+![image](https://github.com/LisandroCruz/BaseDatos/assets/145726150/845a008d-74a3-46d4-93af-52c4f7e298df)
+
