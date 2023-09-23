@@ -14,7 +14,7 @@ Código,
 Nombre del producto,
 Precio unitario,
 Cantidad de Unidades,
-Fecha de ingreso,
+Fecha de ingreso
 
 Los datos mencionados anteriormente son campos a rellenar por quien este utilizando el programa.
 
@@ -26,7 +26,7 @@ eliminar,
 salir,
 reporte,
 buscar,
-refrescar,
+refrescar
 
-
-
+Si queremos agregar un prodocuto deberemos de rellenar todos los campos solicitados y luego de rellenar los campos simplemente hacemos click izquierdo sobre el botón de agregar .
+Para modificar un producto debemos de ingresar el código de un producto agregado previamente
