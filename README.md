@@ -28,5 +28,6 @@ reporte,
 buscar,
 refrescar
 
-Si queremos agregar un prodocuto deberemos de rellenar todos los campos solicitados y luego de rellenar los campos simplemente hacemos click izquierdo sobre el botón de agregar .
-Para modificar un producto debemos de ingresar el código de un producto agregado previamente
+Si queremos agregar un prodocuto deberemos de rellenar todos los campos solicitados y luego de rellenar los campos simplemente hacemos click izquierdo sobre el botón de agregar.
+
+Para modificar un producto debemos de ingresar el código de un producto agregado previamente y en todos los demás campos tenemos que colocar datos nuevos.
